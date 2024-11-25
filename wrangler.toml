@@ -1,0 +1,10 @@
+name = "work"
+type = "javascript"
+account_id = "Marcelowaltergil@gmail.com"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./"
+entry-point = "tira.py"
